@@ -1,6 +1,7 @@
 <template>
   	<div>
-    	<itemcontainer father-component="item">1111111111我00000们我们我们</itemcontainer>
+    	<itemcontainer father-component="item">我们就是这么横</itemcontainer>
+		<div>我爱你，张丁心</div>
   	</div>
 </template>
 
