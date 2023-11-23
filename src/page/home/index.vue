@@ -2,7 +2,8 @@
   	<div class="home_container">
         <itemcontainer father-component="home"></itemcontainer>
         <div>哼哈秘书1111111111111</div>
-        我们我们我们我们我们我们我们我们
+        我们我们我们我们我们我们我们我们0000000000000000000000000000
+        8888888888888888888888888888888888888888888888888888888
     </div>
 </template>
 
