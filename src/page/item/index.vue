@@ -6,9 +6,6 @@
 		<div>我爱你，张丁心</div>
 		<div>我爱你，张丁心</div>
 		<div>我爱你，张丁心</div>
-		<div>我爱你，张丁心</div>
-		<div>我爱你，张丁心</div>
-		<div>我爱你，张丁心</div>
   	</div>
 </template>
 
