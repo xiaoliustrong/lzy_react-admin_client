@@ -1,6 +1,6 @@
 <template>
   	<div>
-    	<itemcontainer father-component="item">1111111111我们我们我们</itemcontainer>
+    	<itemcontainer father-component="item">1111111111我00000们我们我们</itemcontainer>
   	</div>
 </template>
 
