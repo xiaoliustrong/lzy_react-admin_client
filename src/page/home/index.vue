@@ -1,6 +1,7 @@
 <template>
   	<div class="home_container">
         <itemcontainer father-component="home"></itemcontainer>
+        <div>哼哈秘书1111111111111</div>
     </div>
 </template>
 
